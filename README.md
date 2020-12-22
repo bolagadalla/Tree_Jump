@@ -9,7 +9,8 @@ This is my first take on using the knowledge I collected from tutorials and try 
 	-[x] Learned how to create different screens## How The App Looks
 
 <p align="center">
-  <img src="" width="350" title="App Screenshot">
+  <img src="https://github.com/bolagadalla/Tree_Jump/blob/main/Assets/Sprites/Screenshot_1.PNG?raw=true" width="350" title="App Screenshot">
+  <img src="https://github.com/bolagadalla/Tree_Jump/blob/main/Assets/Sprites/Screenshot_2.PNG?raw=true" width="350" title="App Screenshot">
 </p>
 
 
