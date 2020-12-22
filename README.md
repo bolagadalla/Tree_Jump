@@ -6,5 +6,10 @@ This is my first take on using the knowledge I collected from tutorials and try 
 	-[x] Learned how to add my own sounds
 	-[x] Learned how to use TextMesh Pro
 	-[x] Learned how to animate spritesheets
-	-[x] Learned how to create different screens
+	-[x] Learned how to create different screens## How The App Looks
+
+<p align="center">
+  <img src="" width="350" title="App Screenshot">
+</p>
+
 
